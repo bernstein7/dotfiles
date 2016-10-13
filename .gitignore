@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.bashrc
+!.bash_profile
+!.oh-my-zsh
+!.zshrc
+!powerline-install
+!pre-commit.sh
+!.gitconfig

@@ -1,0 +1,7 @@
+[user]
+	email = clapandslap@gmail.com
+	name = bernstein
+[core]
+	excludesfile = /home/sloboda/.gitignore_global
+[alias]
+	co = checkout
