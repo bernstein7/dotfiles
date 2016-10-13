@@ -7,4 +7,5 @@
 !.zshrc
 !powerline-install
 !pre-commit.sh
+!create_links.sh
 !.gitconfig
